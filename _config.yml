@@ -23,7 +23,7 @@ email: abch@upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This a personal website of Abhinav Chakraborty.
 baseurl: "/mywebpage" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "snake00000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  snake00000
 
